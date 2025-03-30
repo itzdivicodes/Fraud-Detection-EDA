@@ -7,7 +7,7 @@ This project focuses on detecting fraudulent transactions in banking datasets us
 Data Cleaning and Preprocessing
 Exploratory Data Analysis (EDA)
 -- Univariate Analysis
--- Multivariate Analysis
+-- Multivariate Analysi
 Predictive, Descriptive, Diagnostic, and Prescriptive Analysis
 Feature Selection & Feature Extraction
 
