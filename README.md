@@ -1,4 +1,4 @@
-**Fraud Detection in Bank Transactions - EDA & Machine Learning**\n
+**Fraud Detection in Bank Transactions - EDA & Machine Learning**
 
 ***Project Overview***\n
 This project focuses on detecting fraudulent transactions in banking datasets using Exploratory Data Analysis (EDA) and Machine Learning (ML) models. We analyze transaction data, preprocess it, and use multiple ML models to classify transactions as fraudulent or legitimate.
